@@ -10,5 +10,6 @@ public class gitStudy {
             strings.add(String.valueOf(i));
         }
         Set<String> set =new HashSet<>();
+        System.out.println("这是master的分支feature");
     }
 }
