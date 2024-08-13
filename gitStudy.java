@@ -8,5 +8,6 @@ public class gitStudy {
             strings.add(String.valueOf(i));
         }
         System.out.println("这是master分支");
+         System.out.println("666");
     }
 }
