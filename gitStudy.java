@@ -7,5 +7,6 @@ public class gitStudy {
         for(int i=0;i<10;i++){
             strings.add(String.valueOf(i));
         }
+        System.out.println("这是master分支");
     }
 }
